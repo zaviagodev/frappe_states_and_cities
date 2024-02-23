@@ -68,7 +68,7 @@ app_license = "mit"
 # ------------
 
 # before_install = "frappe_states_and_cities.install.before_install"
-# after_install = "frappe_states_and_cities.install.after_install"
+after_install = "frappe_states_and_cities.install.after_install"
 
 # Uninstallation
 # ------------
